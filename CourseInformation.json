@@ -2,5 +2,14 @@
   "name": "CS1010",
   "description": "Programming Methodology",
   "facilitators": ["Lim", "Chek", "Jun"],
-  "missions": ["Pass", "Away"]
+  "missions": [
+    {
+      "name": "Pass",
+      "link": "https://www.youtube.com/watch?v=1yqkVPoGXwc"
+    },
+    {
+      "name": "Away",
+      "link": "https://www.youtube.com/watch?v=1yqkVPoGXwc"
+    } 
+  ]
 }
